@@ -5,7 +5,6 @@ The COVID-19 app is designed to help users stay informed, safe, and healthy duri
 The app provides real-time data on active COVID-19 cases, recoveries, deaths, and vaccination rates. Users can:
 
 * View global, national, and local COVID-19 case statistics.
-* Access a map with region-specific data.
 * Track trends and spikes in infection rates.
 * Stay updated on vaccination rollouts and distribution.
 
@@ -13,9 +12,8 @@ The app provides real-time data on active COVID-19 cases, recoveries, deaths, an
 The "Test Yourself" option allows users to perform a basic self-assessment to gauge the likelihood of contracting COVID-19. It includes:
 
 * A questionnaire asking about symptoms like fever, cough, difficulty breathing, and loss of taste/smell.
-* A risk analysis based on answers, medical history, and recent travel.
+* A risk analysis based on symptoms that you currently have.
 * Suggestions on whether to seek medical advice, get tested, or self-isolate.
-* Links to nearby testing centers.
 
 # 3. Safety Precautions Page
 This page offers essential guidelines on how to stay safe during the pandemic. It includes:
